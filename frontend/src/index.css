@@ -143,12 +143,12 @@ h3 {
   color: #fff;
   font-size: 16px;
   font-weight: 700;
-  cursor: pointer;
   text-align: center;
   appearance: button;
   display: flex;
   align-items: center;
   justify-content: center;
+  cursor: pointer;
 }
 
 .btn svg {
